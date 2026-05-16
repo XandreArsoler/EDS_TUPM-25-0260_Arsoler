@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # VIB-01 Natural Frequency Resonance
+=======
+# VIB-01: Natural Frequency Resonance
+>>>>>>> c3ed174d623a45fdedc5d5650846d9dc84c7cc56
 Author: Xandre Arsoler  
 Student ID: TUPM-25-0260  
 Topic: VIB-01 Natural Frequency Resonance  
