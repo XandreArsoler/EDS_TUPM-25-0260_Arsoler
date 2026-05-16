@@ -1,4 +1,4 @@
-# Final Project: Engineering Data Systems Pipeline
+# VIB-01 Natural Frequency Resonance
 Author: Xandre Arsoler  
 Student ID: TUPM-25-0260  
 Topic: VIB-01 Natural Frequency Resonance  
